@@ -4,3 +4,29 @@ this is my first git file
 today is sunday
 there is a guess in the house
 am the host for today
+ history
+    1  git init
+    2  git clone https://github.com/sallyjdevops/2ndrepo.git
+    5  touch file01
+    6  pwd
+    7  ls
+    8  git status
+    9  git remote add origin
+   10  git remote add origin https://github.com/sallyjdevops/2ndrepo.git
+   11  ls
+   12  vim file01
+   13  cat file01
+   14  git add file01
+   15  git commit -m https://github.com/sallyjdevops/2ndrepo.git
+   16  git config --global user.email mbengs@yahoo.com
+   17  git commit -m https://github.com/sallyjdevops/2ndrepo.git
+   21  git push origin master
+   22  git commit -m https://github.com/sallyjdevops/2ndrepo.git
+   23  git push origin master
+   24  vi file01
+   25  git add file01
+   26  git commit -m https://github.com/sallyjdevops/2ndrepo.git
+   27  git push origin master
+   28  vi file01
+   29  history
+
